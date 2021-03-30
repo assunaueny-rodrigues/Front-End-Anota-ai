@@ -1,0 +1,52 @@
+input{
+    border: none;
+    width: 80%;
+    padding: 8px 2px 8px 5px;
+    background: white;
+    margin-top: 20px;
+    font-size: 15px;
+    color: #4e5155;
+    border-radius: 5px;
+}
+
+input:focus, select:focus {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}
+
+.card-order{
+    width: 40%;
+    margin: auto;
+    margin-top: 10px;
+    box-shadow: 4px 5px 12px 0px rgba(50, 50, 50, 0.75);
+    border-radius: 10px;
+}
+
+.card-header{
+    background: #353B48;
+    text-align: center;
+    color: white;
+    padding: 3px;
+    border-radius: 10px 10px 0 0;
+}
+
+.card-body{
+    padding-left: 10px;
+}
+
+.card-body input{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+    margin-top: -10px;
+    margin-bottom: 10px;
+    width: 96%;
+    border-radius: 0px;
+}
+
+.card-body h5{
+    margin-bottom: 10px;
+}
+
+.card-footer{
+    text-align: center;
+}

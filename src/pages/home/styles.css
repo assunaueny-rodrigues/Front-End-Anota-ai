@@ -1,0 +1,23 @@
+.container-home{
+    margin-top: 20px;
+}
+
+.container-date{
+    text-align: center;
+}
+
+.container-tittle{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.container-list-card{
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
